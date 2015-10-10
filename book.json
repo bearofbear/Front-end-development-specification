@@ -1,0 +1,32 @@
+{
+
+    "title": "F2E Style Guide",
+
+    "links": {
+        "home": "https://github.com/Aaaaaashu/F2E-Style-Guide",
+        "about": "http://aaaaaashu.me/",
+        "issues": null,
+        "contribute": null
+    },
+
+    "pdf": {
+        "toc": true,
+        "pageNumbers": false,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        }
+    },
+
+    "plugins": [ "github" ],
+    "pluginsConfig": {
+      "github": {
+        "url": "https://github.com/Aaaaaashu/F2E-Style-Guide"
+      }
+    }
+
+}
